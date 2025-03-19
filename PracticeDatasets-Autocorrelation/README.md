@@ -8,7 +8,8 @@ This folder contains four datasets with time series sampled from four different 
 
 To practice, you should perform the following tasks for the different datasets:
 - Visualize and plot the time series (ensure the time axis is correct).
-- Estimate the densities using histogramming or kernel density estimation.
+- Estimate the densities using discrete histograms and kernel density estimation.
+- You should compare the results obtained with the discrete histogram and KDE to ensure you are using appropriate bandwidth parameters in the KDE. It is easy to oversmooth the KDE densities using bandwidth parameters that are too large. 
 - Calculate the average (i.e., mean) and standard deviation. 
 - Calculate and plot the autocorrelation function.
 - Use block averaging to estimate the standard error of the mean.
