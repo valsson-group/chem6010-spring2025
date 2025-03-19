@@ -4,7 +4,7 @@ This folder contains four datasets with time series sampled from four different 
 - All the models have the same mean and should have very similar standard deviations.
 - For two of the models, there is no correlation between data points.
 - For the other two models, the data points are correlated to a certain degree but differ in the correlation.
-- The data points are sampled with a frequency of 0.1. 
+- The data points are sampled with a frequency of 0.1 ns. 
 
 To practice, you should perform the following tasks for the different datasets:
 - Visualize and plot the time series (ensure the time axis is correct).
