@@ -3,6 +3,7 @@
 This folder contains a dataset of a time series sampled from a two-dimensional distribution $P(x,y)$. 
 
 To practice, you should try the following task:
+- Plot and visualize the time series of the $x$ and $y$ variables (ensure to have the correct time axis). What do you observe?  
 - Estimate the one-dimensional densities $P(x)$ and $P(y)$ by using histogramming and kernel density estimation.
   - Here, you should compare the histogram to the KDE to determine the appropriate bandwidth parameters.
 - Estimate the two-dimensional density $P(x,y)$ by using histogramming or KDE.
