@@ -11,6 +11,7 @@ To practice, you should try the following task:
 - Consider the correlation between the $x$ and $y$ variables by visualizing the two-dimensional density.
 - Quantify the correlation between the two variables by calculating the [mutual information](https://en.wikipedia.org/wiki/Mutual_information) (see Eq 2 there).
   - Here, you should estimate the distributions using KDE.
+  - You will need to perform numerical integration to calculate the mutual information. 
   - To integrate the mutual information, you must ensure that all the KDE grids have the same range. This can be done using KDE in sklearn.
  
  
