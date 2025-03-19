@@ -12,8 +12,8 @@ To practice, you should perform the following tasks for the different datasets:
 - You should compare the results obtained with the discrete histogram and KDE to ensure you are using appropriate bandwidth parameters in the KDE. It is easy to oversmooth the KDE densities using bandwidth parameters that are too large. 
 - Calculate the average (i.e., mean) and standard deviation. 
 - Calculate and plot the autocorrelation function.
-- Use block averaging to estimate the standard error of the mean.
-- Estimating the autocorrelation times (keep in mind that the data points are sampled with a frequency of 0.1 ns)
+- Use block averaging to estimate the mean (i.e., average) and the standard error of the mean.
+- Estimate the autocorrelation times (keep in mind that the data points are sampled with a frequency of 0.1 ns)
 - Based on your results, what can you deduce about the different models?
   - Which of them has uncorrelated data points?
   - What can you determine about the difference between the two models with uncorrelated data points?
