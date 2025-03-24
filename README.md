@@ -39,7 +39,7 @@ You should analyze the three times series, including:
 - Estimate the two-dimensional density $P(x,y)$ by using histogramming or KDE.
 - Consider the correlation between the $x$ and $y$ variables by visualizing the two-dimensional density.
 
-You will notice that the two-dimensional distribution $P(x,y)$ is composed of two modes (i.e., density peaks or metastable states). Estimate the averages of the $x$ and $y$ values separately for each mode and use block averaging to estimate the standard error of the mean. 
+You will notice that the two-dimensional distribution $P(x,y)$ is composed of two modes (i.e., density peaks or metastable states). Estimate the averages and standard deviations of the $x$ and $y$ values separately for each mode and use block averaging to estimate the standard error of the mean. 
 
 Use the [mutual information](https://en.wikipedia.org/wiki/Mutual_information) $I(X,Y)$ (see Eq 2) to quantify the correlation between the two variables. 
 
