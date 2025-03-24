@@ -1,4 +1,4 @@
-# Chem6010 Exam Spring 2025
+# Chem 6010 Exam Spring 2025
 
 In this exam, you should perform two tasks related to data series analysis. 
 
