@@ -2,7 +2,7 @@
 
 In this exam, you should perform two tasks related to data series analysis. 
 
-You should return your analysis in the form of a well-annotated Jupyter notebook (I recommend using [markdown](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Working%20With%20Markdown%20Cells.html) to add formatted text) or in the format a report. 
+You should return your analysis in the form of a well-annotated Jupyter notebook (I recommend using [markdown](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Working%20With%20Markdown%20Cells.html) to add formatted text) or in the format of a report. 
 
 You must also submit all the codes and Juypter notebooks you use in your analysis. They should be given to me in such a form that I can run through the analysis myself and reproduce the results. 
 
