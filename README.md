@@ -49,7 +49,7 @@ D = 1 - \frac{I(X,Y)}{H(X,Y)}
 ```
 where $H(X,Y)$ is the joint entropy, defined as 
 ```math
-H(X,Y) = -\int P(x,y) \, \log P(x,y) dx dy
+H(X,Y) = -\int P(x,y) \, \log \, P(x,y) \, dx dy
 ```
 This metric has the value of one if there is no correlation and goes to zero as the correlation increases. 
 
