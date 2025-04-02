@@ -25,6 +25,7 @@ To achieve your overall task of classifying the datasets, you can think about pe
 - Calculate and plot the autocorrelation function.
 - Use block averaging to estimate the mean (i.e., average) and the standard error of the mean.
 - Estimate the autocorrelation times
+
 For example, I would want to see a graph comparing the means for the different datasets, with the standard error of the mean shown as an error bar. You can also perform any other analysis that you think is useful to help with the overall task.
 
 ## Task 2
